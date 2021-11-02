@@ -1,8 +1,8 @@
-# HelloWorld
+# Hello-rails-react-app
 
 > This project is about getting our hands dirty with a Rails app with react. The main go is to connect a Rails and a react as one app, Rails for the backend, and react for the UI.
 
-![Screenshot](./images/screenshot1.png)
+![Screenshot](https://github.com/uwadonat/hello-rails-react-app/blob/feature/rail-react-gem/images/secreenshot1.png)
 
 Additional description of the project and its features.
 
